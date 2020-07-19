@@ -1,0 +1,104 @@
+a {
+    color: #378BCD;
+}
+
+ul.disc li::before {
+    background: #378BCD;
+}
+
+dt {
+    color: #378BCD;
+}
+
+.pace .pace-progress {
+    background: #378BCD;
+}
+
+input:-webkit-autofill, input:-webkit-autofill:hover, input:-webkit-autofill:focus input:-webkit-autofill, textarea:-webkit-autofill, textarea:-webkit-autofill:hover textarea:-webkit-autofill:focus, select:-webkit-autofill, select:-webkit-autofill:hover, select:-webkit-autofill:focus {
+    -webkit-text-fill-color: #378BCD;
+}
+
+.btn.btn--primary, button.btn--primary, input[type="submit"].btn--primary, input[type="reset"].btn--primary, input[type="button"].btn--primary {
+    background: #378BCD;
+    border-color: #378BCD;
+}
+
+.stats-tabs li a:hover {
+    color: #378BCD;
+}
+
+.subhead {
+    color: #378BCD;
+}
+
+.subhead::after {
+    background-color: #378BCD;
+}
+
+.btn-animatedbg {
+    border-color: #378BCD !important;
+}
+
+.btn-animatedbg::before {
+    background-color: #378BCD;
+}
+
+.home-content__video .video-link:hover .video-icon {
+    background-color: #378BCD;
+}
+
+.home-content__scroll .scroll-link:hover {
+    color: #378BCD;
+}
+
+.home-social span {
+    color: #378BCD;
+}
+
+.s-services a {
+    color: #378BCD;
+}
+
+.services-list .item-service::before {
+    color: #378BCD;
+}
+
+.item-folio__project-link:hover, .item-folio__project-link:focus, .item-folio__project-link:active {
+    background-color: #378BCD;
+}
+
+.s-clients a {
+    color: #378BCD;
+}
+
+.s-contact .display-1 a:hover, .s-contact .display-1 a:focus, .s-contact .display-1 a:active {
+    color: #378BCD;
+}
+
+.s-contact a {
+    color: #378BCD;
+}
+
+.mc-form input[type=submit] {
+    background: #378BCD;
+    border-color: #378BCD;
+}
+
+.cl-go-top a:hover, .cl-go-top a:focus {
+    background-color: #378BCD;
+}
+
+.text-slider-items {
+    display: none;
+}
+
+.typed-text {
+    color: #378BCD;
+}
+
+@media only screen and (min-width:651px) {
+    .portfolio {
+        display: flex !important;
+        justify-content: space-around !important;
+    }
+}
